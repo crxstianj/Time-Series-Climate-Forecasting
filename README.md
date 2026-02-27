@@ -1,6 +1,5 @@
 # Análisis de Pronósticos en Temperatura y Humedad  
 
----
 
 ## Descripción del Proyecto
 
