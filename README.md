@@ -48,12 +48,6 @@ Las olas de calor en México han aumentado en intensidad y frecuencia debido al 
 
 ### 1. Modelo Ingenuo
 
-Modelo base donde:
-
-\[
-\hat{y}_{t+1} = y_t
-\]
-
 Sirve como benchmark para evaluar mejoras reales de modelos más complejos.
 
 ---
