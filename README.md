@@ -1,6 +1,4 @@
 # Análisis de Pronósticos en Temperatura y Humedad  
-**Cristian Jesús Silva Medel**  
-Universidad de Guanajuato – División de Ingenierías Campus Irapuato-Salamanca  
 
 ---
 
