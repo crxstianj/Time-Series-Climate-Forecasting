@@ -159,16 +159,6 @@ Mejor modelo para capturar estacionalidad, especialmente en temperatura.
 
 Capturan relaciones no lineales, pero requieren mayor ajuste para superar SARIMA.
 
----
-
-## Discusión
-
-- ARIMA no logró capturar patrones significativos.  
-- SARIMA fue el modelo más robusto para temperatura.  
-- La humedad presentó mayor complejidad estructural.  
-- Las redes neuronales muestran potencial, pero requieren optimización adicional.  
-- El modelo ingenuo es sorprendentemente competitivo para temperatura.  
-
 
 ---
 
