@@ -18,7 +18,7 @@ El objetivo principal fue determinar qué técnica ofrece mayor precisión predi
 
 ## Contexto
 
-Las olas de calor en México han aumentado en intensidad y frecuencia debido al cambio climático. En regiones agrícolas como Salamanca, Guanajuato, contar con modelos predictivos confiables puede apoyar en:
+Las olas de calor en México han aumentado en intensidad y frecuencia debido al cambio climático. Contar con modelos predictivos confiables puede apoyar en:
 
 - Planeación de emergencias  
 - Gestión de recursos  
